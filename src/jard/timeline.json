@@ -1,0 +1,17 @@
+{
+  "fps": 30,
+  "bpm": 100,
+  "framesPerBeat": 18,
+  "beatsPerBar": 4,
+  "stingAt": 4.8,
+  "scenes": [
+    {"id": "hook", "bars": 2, "mood": "build", "transition": "none"},
+    {"id": "logo", "bars": 2, "mood": "build", "transition": "flash"},
+    {"id": "pos", "bars": 2, "mood": "main", "transition": "slide"},
+    {"id": "invoice", "bars": 2, "mood": "main", "transition": "slide"},
+    {"id": "debts", "bars": 2, "mood": "main", "transition": "slide"},
+    {"id": "stock", "bars": 2, "mood": "lift", "transition": "slide"},
+    {"id": "features", "bars": 2, "mood": "lift", "transition": "flash"},
+    {"id": "outro", "bars": 3, "mood": "outro", "transition": "flash"}
+  ]
+}

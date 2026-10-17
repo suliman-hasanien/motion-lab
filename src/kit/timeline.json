@@ -1,0 +1,17 @@
+{
+  "fps": 30,
+  "bpm": 100,
+  "framesPerBeat": 18,
+  "beatsPerBar": 4,
+  "stingAt": 0.6,
+  "scenes": [
+    {"id": "intro", "bars": 2, "mood": "build", "transition": "none"},
+    {"id": "title", "bars": 2, "mood": "main", "transition": "flash"},
+    {"id": "lower", "bars": 2, "mood": "main", "transition": "slide"},
+    {"id": "stat", "bars": 2, "mood": "main", "transition": "slide"},
+    {"id": "quote", "bars": 2, "mood": "soft", "transition": "slide"},
+    {"id": "social", "bars": 2, "mood": "lift", "transition": "slide"},
+    {"id": "offer", "bars": 2, "mood": "lift", "transition": "slide"},
+    {"id": "themes", "bars": 3, "mood": "outro", "transition": "flash"}
+  ]
+}
